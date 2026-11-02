@@ -24,6 +24,9 @@ ASP.NET Core MVC app with role-based access for admins, instructors and students
 **[NeetCode Solutions](https://github.com/jianweicheng0822/neetcode-submissions)**  
 Data structures and algorithms practice in Java, synced automatically from NeetCode.io.
 
+**[LeetCode](https://leetcode.com/u/jianweicheng0822/)**  
+311 problems solved (Easy 121 / Medium 178 / Hard 12), almost all in Java.
+
 ### Tech
 
 **Languages:** Java, C#, SQL, TypeScript  
